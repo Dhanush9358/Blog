@@ -1,6 +1,6 @@
 # 🚀 12 Days of AI: Monthly Updates, Reasons & Impact (2025)
 
-A 12-day AI series where each day covers one month of 2025 AI updates, explaining why they were introduced, what they fix, and their real-world impact on developers and users.
+**12 Days of AI** is a monthly insight series that tracks how Artificial Intelligence evolved throughout **2025**, with each day representing one month of meaningful AI progress. Rather than following daily announcements, the series focuses on the **most impactful updates**, explaining **why they were introduced**, **what limitations they addressed**, and **how useful they are for developers and real users.**
 
 # 📅 The 12-Day AI Roadmap (2025)
 
