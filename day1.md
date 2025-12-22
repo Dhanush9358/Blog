@@ -33,7 +33,7 @@ These were the most impactful AI releases shaping how systems behaved in January
 
 - Indicates growing **Open-Source LLM maturity**
 
-#### 4️⃣ Gemini 2.0 & Gemini 2.0 Flash — Google DeepMind
+#### 4️⃣ Gemini 2.0 & Gemini 2.0 Flash - Google DeepMind
 
 - **Faster response latency**
 
@@ -65,7 +65,7 @@ High-performance reasoning models were mostly **closed and costly.**
 
 DeepSeek R1 was introduced to offer strong reasoning capabilities in an **open-source**, **affordable** form.
 
-#### 4️⃣ Gemini 2.0 & Gemini 2.0 Flash — Google DeepMind
+#### 4️⃣ Gemini 2.0 & Gemini 2.0 Flash - Google DeepMind
 
 Earlier multimodal models struggled with **latency** and **long-context understanding.**
 
@@ -95,7 +95,7 @@ The real value shows up differently for users and developers.
 
 **Developers:** More **control and flexibility** through **open-source models.**
 
-#### 4️⃣ Gemini 2.0 & Gemini 2.0 Flash — Google DeepMind
+#### 4️⃣ Gemini 2.0 & Gemini 2.0 Flash - Google DeepMind
 
 **Users:** **Quicker responses** with **better understanding of complex inputs.**
 
