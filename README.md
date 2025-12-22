@@ -6,7 +6,7 @@
 
  - [x] **Day 01 (January):** [Jan 2025 — From Chatbots to Action-Oriented AI](day1.md)
        
- - [ ] **Day 02 (February):**
+ - [ ] **Day 02 (February):** [Feb 2025 — Reasoning Depth, Cost Efficiency & Stateful AI](day2.md)
        
  - [ ] **Day 03 (March):** 
 
