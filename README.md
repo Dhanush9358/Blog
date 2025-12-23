@@ -8,7 +8,7 @@
        
  - [x] **Day 02 (February):** [Feb 2025 — Reasoning Depth, Cost Efficiency & Stateful AI](day2.md)
        
- - [ ] **Day 03 (March):** 
+ - [x] **Day 03 (March):**  [Mar 2025 — AI Becomes a Daily Work Companion](day3.md)
 
  - [ ] **Day 04 (April):** 
 
