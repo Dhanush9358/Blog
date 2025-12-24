@@ -10,7 +10,7 @@
        
  - [x] **Day 03 (March):**  [Mar 2025 — AI Becomes a Daily Work Companion](day3.md)
 
- - [ ] **Day 04 (April):** 
+ - [x] **Day 04 (April):** [Apr 2025 — Reasoning, Agents & Persistent AI Systems](day4.md)
 
  - [ ] **Day 05 (May):** 
 
