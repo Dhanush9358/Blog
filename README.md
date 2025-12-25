@@ -12,7 +12,7 @@
 
  - [x] **Day 04 (April):** [Apr 2025 — Reasoning, Agents & Persistent AI Systems](day4.md)
 
- - [ ] **Day 05 (May):** 
+ - [x] **Day 05 (May):** [May 2025 — Multimodal Scale, Agents & AI as Infrastructure](day5.md)
 
  - [ ] **Day 06 (June):** 
 
