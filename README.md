@@ -14,7 +14,7 @@
 
  - [x] **Day 05 (May):** [May 2025 — Multimodal Scale, Agents & AI as Infrastructure](day5.md)
 
- - [ ] **Day 06 (June):** 
+ - [x] **Day 06 (June):** [June 2025 — Reliable Reasoning, Agents & AI in the Real World](day6.md)
 
  - [ ] **Day 07 (July):** 
 
