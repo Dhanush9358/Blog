@@ -16,7 +16,7 @@
 
  - [x] **Day 06 (June):** [June 2025 — Reliable Reasoning, Agents & AI in the Real World](day6.md)
 
- - [ ] **Day 07 (July):** 
+ - [x] **Day 07 (July):** [July 2025 — Agentic AI, Autonomous Systems & Real-World Execution](day7.md)
 
  - [ ] **Day 08 (August):** 
 
