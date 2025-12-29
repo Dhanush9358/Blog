@@ -18,7 +18,7 @@
 
  - [x] **Day 07 (July):** [July 2025 — Agentic AI, Autonomous Systems & Real-World Execution](day7.md)
 
- - [ ] **Day 08 (August):** 
+ - [x] **Day 08 (August):** [August 2025 — Agentic Scale, Open Models & AI as a Platform](day8.md)
 
  - [ ] **Day 09 (September):** 
 
