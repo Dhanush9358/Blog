@@ -22,7 +22,7 @@
 
  - [x] **Day 09 (September):** [September 2025 — Agentic Infrastructure, Open Systems & AI Governance](day9.md)
 
- - [ ] **Day 10 (October):** 
+ - [x] **Day 10 (October):** [October 2025 — Agentic AI Goes Operational](day10.md)
 
  - [ ] **Day 11 (November):** 
 
