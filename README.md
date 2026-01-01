@@ -24,6 +24,6 @@
 
  - [x] **Day 10 (October):** [October 2025 — Agentic AI Goes Operational](day10.md)
 
- - [ ] **Day 11 (November):** 
+ - [x] **Day 11 (November):** [November 2025 — Frontier Models, Agentic Scale & Global AI Infrastructure](day11.md)
 
  - [ ] **Day 12 (December):** 
