@@ -1,6 +1,6 @@
 # 🚀 12 Days of AI: Monthly Updates, Reasons & Impact (2025)
 
-**12 Days of AI** is a monthly insight series that tracks how Artificial Intelligence evolved throughout **2025**, with each day representing one month of meaningful AI progress. Rather than following daily announcements, the series focuses on the **most impactful updates**, explaining **why they were introduced**, **what limitations they addressed**, and **how useful they are for developers and real users.**
+**12 Days of AI** is a monthly insight series that tracks how Artificial Intelligence evolved throughout **2025**, with each day representing one month of meaningful AI progress. Rather than following daily announcements, the series focuses on the **most impactful updates**, explaining **why they were introduced**, **what limitations they addressed** and **how useful they are for developers and real users.**
 
 # 📅 The 12-Day AI Roadmap (2025)
 
@@ -26,4 +26,4 @@
 
  - [x] **Day 11 (November):** [November 2025 — Frontier Models, Agentic Scale & Global AI Infrastructure](day11.md)
 
- - [ ] **Day 12 (December):** 
+ - [x] **Day 12 (December):** [December 2025 — Agentic Maturity, Governance & AI as Critical Infrastructure](day12.md)
